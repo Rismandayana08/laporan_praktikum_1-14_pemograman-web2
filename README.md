@@ -106,7 +106,3 @@ Berikut adalah detail teknis pengerjaan dari setiap modul praktikum yang telah s
     *   Pada *Frontend* VueJS, saya mengonfigurasi fitur tingkat lanjut *Axios Interceptors* (`axios.interceptors.request.use`). Fitur ini secara otomatis menyuntikkan *token* dari `localStorage` ke dalam setiap *Header HTTP request* yang keluar, sehingga proses interaksi data antar *platform web* berjalan aman dan tanpa hambatan di latar belakang[span_33](start_span)[span_33](end_span).
 
 ---
-
-*Laporan ini di-commit dengan sepenuh hati sebagai rangkuman komprehensif perjalanan pembelajaran selama satu semester. Terima kasih atas bimbingannya, Bapak/Ibu Dosen!* 🚀
-
-
