@@ -3,8 +3,8 @@
 Tugas ini merupakan bagian dari Praktikum Pemrograman Web 2 yang berfokus pada pengenalan Framework CodeIgniter 4, konsep MVC (Model-View-Controller), dan penggunaan sistem template (Layouting).
 
 ## Informasi Mahasiswa
-* **Nama:** Muhammad Said Abimanyu
-* **NIM:** 312410145
+* **Nama:** Aldi Rismandayana
+* **NIM:** 312410015
 * **Kelas:** I241A
 * **Mata Kuliah:** Pemrograman Web 2
 
@@ -42,7 +42,7 @@ Menambahkan file `style.css` pada folder `public/` dengan tema **Warna Biru** da
 
 ## Hasil Tampilan (Screenshot)
 
-> **Catatan:** Ganti teks di bawah ini dengan gambar screenshot dari browser Anda.
+
 
 ### Halaman Home
 ![Halaman Home](screenshot/home.png)
