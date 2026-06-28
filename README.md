@@ -204,19 +204,31 @@ Kemudian jalankan menggunakan Live Server atau browser.
 | DELETE | /post/{id} | Menghapus artikel          |
 | POST   | /api/login | Login pengguna             |
 
----
 
-## Screenshot
 
-Tambahkan screenshot hasil praktikum pada folder `screenshots`.
+Repositori ini berisi kumpulan tugas praktikum mata kuliah **Pemrograman Web 2** di Universitas Pelita Bangsa.
 
-Contoh:
+##  Deskripsi Projek
+Projek ini dibuat untuk memenuhi tugas praktikum mengenai pengembangan aplikasi web. Aplikasi ini dibangun menggunakan framework **CodeIgniter 4** untuk mengimplementasikan konsep MVC (Model-View-Controller) serta pengelolaan database menggunakan MySQL.
 
-<img width="2240" height="1265" alt="Cuplikan layar 2026-06-22 173725" src="https://github.com/user-attachments/assets/0e5eaebb-63eb-4a79-a425-6336fba94b71" />
+## Teknologi yang Digunakan
+- **PHP** 8.x
+- **Framework:** CodeIgniter 4
+- **Database:** MySQL (via XAMPP)
+- **Front-end:** HTML, CSS, Bootstrap
 
-<img width="2240" height="1328" alt="Cuplikan layar 2026-06-22 174500" src="https://github.com/user-attachments/assets/2a601be4-9857-4a81-8a56-ad78cc33dc1a" />
+## Struktur Folder
+```text
+/
+├── app/            # Source code utama (Controllers, Models, Views)
+├── public/         # File publik (assets, css, js)
+├── writable/       # Log dan cache
+├── .env            # Konfigurasi environment
+└── README.md       # Dokumentasi ini
+```
 
----
+
+
 
 ## Kesimpulan
 
